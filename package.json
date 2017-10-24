@@ -1,0 +1,34 @@
+{
+  "name": "soother",
+  "version": "0.0.1",
+  "description": "Standalone test dummies, stubs, mocks, fakes and spies for JavaScript. Works with any unit testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab tests -r console -o stdout -r html -o coverage/report.html -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archik408/soother.git"
+  },
+  "keywords": [
+    "testing",
+    "mock",
+    "stub",
+    "spy",
+    "dummy",
+    "fake",
+    "test",
+    "doubles"
+  ],
+  "author": "artur.basak@instinctools.ru",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/archik408/soother/issues"
+  },
+  "homepage": "https://github.com/archik408/soother#readme",
+  "devDependencies": {
+    "babel-register": "6.16.3",
+    "jsdom": "9.8.0",
+    "lab": "14.3.1"
+  }
+}
