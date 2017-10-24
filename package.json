@@ -1,6 +1,6 @@
 {
   "name": "soother",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Standalone test dummies, stubs, mocks, fakes and spies for JavaScript. Works with any unit testing framework.",
   "main": "index.js",
   "scripts": {
