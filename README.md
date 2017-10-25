@@ -28,7 +28,7 @@ npm install soother --save-dev
 
 from 'K&amp;R' (c)
 
-![dummy](https://raw.githubusercontent.com/archik408/soother/master/media/dummy.png)
+![dummy](https://raw.githubusercontent.com/archik408/soother/master/media/dummy_d.png)
 
 ```javascript
         import Soother from 'soother';
@@ -43,7 +43,7 @@ from 'K&amp;R' (c)
 
 ### Stub
 
-![stub](https://raw.githubusercontent.com/archik408/soother/master/media/stub.png)
+![stub](https://raw.githubusercontent.com/archik408/soother/master/media/stub_d.png)
 
 ```javascript
         const stubbedInstance = Soother.stub(instance);
@@ -67,7 +67,7 @@ from 'K&amp;R' (c)
 
 ### Mock
 
-![mock](https://raw.githubusercontent.com/archik408/soother/master/media/mock.png)
+![mock](https://raw.githubusercontent.com/archik408/soother/master/media/mock_d.png)
 
 ```javascript
         let mockInstance = Soother.mock(instance, {
