@@ -1,6 +1,6 @@
 # soother
 
-![logo](https://github.com/archik408/soother/blob/master/media/logo.png)
+![logo](https://raw.githubusercontent.com/archik408/soother/blob/master/media/logo.png)
 
 > soother is a cross-browser standalone library that provide test dummies, stubs, mocks, fakes and spies for JavaScript. Works with any unit testing framework.
 
@@ -28,7 +28,7 @@ npm install soother --save-dev
 
 from 'K&amp;R' (c)
 
-![dummy](https://github.com/archik408/soother/blob/master/media/dummy.png)
+![dummy](https://raw.githubusercontent.com/archik408/soother/blob/master/media/dummy.png)
 
 ```javascript
         import Soother from 'soother';
@@ -43,7 +43,7 @@ from 'K&amp;R' (c)
 
 ### Stub
 
-![stub](https://github.com/archik408/soother/blob/master/media/stub.png)
+![stub](https://raw.githubusercontent.com/archik408/soother/blob/master/media/stub.png)
 
 ```javascript
         const stubbedInstance = Soother.stub(instance);
@@ -67,7 +67,7 @@ from 'K&amp;R' (c)
 
 ### Mock
 
-![mock](https://github.com/archik408/soother/blob/master/media/mock.png)
+![mock](https://raw.githubusercontent.com/archik408/soother/blob/master/media/mock.png)
 
 ```javascript
         let mockInstance = Soother.mock(instance, {
