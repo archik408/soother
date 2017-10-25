@@ -1,6 +1,6 @@
 {
   "name": "soother",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Standalone test dummies, stubs, mocks, fakes and spies for JavaScript. Works with any unit testing framework.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,11 @@
     "dummy",
     "fake",
     "test",
-    "doubles"
+    "doubles",
+    "test doubles",
+    "mock object",
+    "TDD",
+    "BDD"
   ],
   "author": "artur.basak@instinctools.ru",
   "license": "Apache-2.0",
